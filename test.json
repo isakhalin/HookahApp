@@ -1,11 +1,12 @@
+[
   {
-    "id": 1253252383516,
-    "originalName": "Cosmo Flower",
-    "typeOfTabaco": "Tabaco",
-    "brand": "Dark Side",
-    "testy": "Ягодный микс винограда и цветов",
-    "strong": "Medium",
-    "ratestrong": 10,
-    "value": 80,
-    "img": "img/ds_cosmoflower.jpg"
+    "id_product": 123,
+    "product_name": "Ноутбук",
+    "price": 45600
+  },
+  {
+    "id_product": 456,
+    "product_name": "Мышка",
+    "price": 1000
   }
+]
