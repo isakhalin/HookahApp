@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1253252383516,                          //id табака
+    "originalName": "Cosmo Flower",               //Название табака
+    "typeOfTabaco": "Tabaco",                     //Тип сырья - чай, табак
+    "brand": "Dark Side",                         //Бренд табака
+    "testy": "Ягодный микс винограда и цветов",   //Понятное название вкуса
+    "strong": "Medium",                           //Крепость
+    "ratestrong": 10,                             //Понятная крепость по шкале от 1 до 10
+    "value": 80,                                  //Количество табака в граммах
+    "img": "img/ds_cosmoflower.jpg"
+  },
+  {
+    "id": 1253252383516,
+    "originalName": "Red Alert",
+    "typeOfTabaco": "Tabaco",
+    "brand": "Dark Side",
+    "testy": "Арбуз, Дыня",
+    "strong": "Rare",
+    "ratestrong": 10,
+    "value": 80,
+    "img": "img/ds_redalert.jpg"
+  }
+]
+
+/*
+{
+  "id": 1253252383516,
+  "originalName": "",
+  "typeOfTabaco": "",
+  "brand": "",
+  "testy": "",
+  "strong": "",
+  "ratestrong": ,
+  "value": ,
+  "img": ""
+}
+*/
